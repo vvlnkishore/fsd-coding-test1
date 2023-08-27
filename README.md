@@ -10,18 +10,19 @@ Acceptance Criteria:
 3. Upon login, present user with the ability to upload document(s).
 4. Develop a REST service to receive the document(s) and store in a database with below structure:
    
-    documentID
+   documentID
    
-    documentName
+   documentName
 
-   	document
+   document
    
-    uploadUser
+   uploadUser
 
-    uploadDate
+   uploadDate
    
-5. Display success message on web page
+5. Display success message on web page.
 6. Ability to navigate to another page and show document list using angular data table with filter and sort options.
+7. Allow users to delete document(s).
    	
 
 Tech Stack:
